@@ -1,4 +1,4 @@
-# 🛡️ Cyber Sahayak — साइबर फ्रॉड AI हेल्पर
+# 🛡️ Digital Surakhsa Networks [D.S.N] — डिजिटल सुरक्षा नेटवर्क
 
 > Free AI assistant for cyber fraud victims in India. Get help with account freeze, lien removal, bank complaints, and cybercrime.gov.in filing.
 
@@ -27,8 +27,8 @@
 ### Step 1: Fork & Clone
 ```bash
 # Fork on GitHub, then:
-git clone https://github.com/YOUR_USERNAME/cyber-sahayak.git
-cd cyber-sahayak
+git clone https://github.com/YOUR_USERNAME/digital-surakhsa-networks.git
+cd digital-surakhsa-networks
 npm install
 ```
 
@@ -63,7 +63,7 @@ vercel
 
 **Or deploy with one click:**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/cyber-sahayak)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/digital-surakhsa-networks)
 
 ---
 
@@ -81,7 +81,7 @@ vercel
 ## 📁 Project Structure
 
 ```
-cyber-sahayak/
+digital-surakhsa-networks/
 ├── app/
 │   ├── globals.css          # Custom styles + Tailwind
 │   ├── layout.tsx           # Root layout + SEO metadata
